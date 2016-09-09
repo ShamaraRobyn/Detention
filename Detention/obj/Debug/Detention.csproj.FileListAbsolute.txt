@@ -1,0 +1,11 @@
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\bin\Debug\Detention.exe.config
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\bin\Debug\Detention.exe
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\bin\Debug\Detention.pdb
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\obj\Debug\Detention.csprojResolveAssemblyReference.cache
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\obj\Debug\Detention.Properties.Resources.resources
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\obj\Debug\Detention.csproj.GenerateResource.Cache
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\obj\Debug\Detention.exe
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\obj\Debug\Detention.pdb
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\obj\Debug\Detention.Detention.resources
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\obj\Debug\Detention.Options.resources
+C:\Users\Shamara\Source\Repos\Premium-Quote-Generator\Detention\Detention\obj\Debug\Detention.TaskForm.resources
